@@ -1,0 +1,3 @@
+{
+   "query": "query { transportOrderHistoryDto(transportOrderNumber: \"AUTOFAnPbfk5lq\") {     transportOrderNumber, messageId, action, status, lastUpdateDate } }"
+}
